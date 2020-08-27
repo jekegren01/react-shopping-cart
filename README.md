@@ -1,4 +1,4 @@
-# Module Project: Context API - Shopping Cart
+<!-- # Module Project: Context API - Shopping Cart
 
 In this module you will take your newfound knowledge of `Context API` and refactor a e-commerce store to use `Context API` as well as extend the functionality of the application making it more robust!
 
@@ -172,4 +172,4 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 
 ## Submission Format
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
-* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
+* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR -->
